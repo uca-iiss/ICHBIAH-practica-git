@@ -1,0 +1,10 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de compilación
+*.class
+*.war
+*.ear
+*.jar
+*.log
